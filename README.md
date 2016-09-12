@@ -1,4 +1,4 @@
-# PostCSS Shorthand To Background Color [![Build Status][ci-img]][ci]
+# postcss-shorthand-to-background-color [![Build Status][ci-img]][ci]
 
 [PostCSS] plugin to avoid using background shorthand to set the background-color only.
 
