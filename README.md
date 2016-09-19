@@ -19,11 +19,3 @@
   background-color: #fff;
 }
 ```
-
-## Usage
-
-```js
-postcss([ require('postcss-shorthand-to-background-color') ])
-```
-
-See [PostCSS] docs for examples for your environment.
